@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.log
+
+# Virtualenv
+venv/
+ENV/
+.env
+*.env
+
+# Django
+*.pot
+*.pyc
+*.db
+*.mo
+/media
+/staticfiles
+/static/
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.seed
+*.tar
+*.bak
+*.swp
+*.swo
+
+# Local settings
+local_settings.py
+
+# OS
+.DS_Store
+Thumbs.db
